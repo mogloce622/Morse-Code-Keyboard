@@ -3,6 +3,12 @@
 Build this circuit on a piece of perf board or make your own pcb
 ![Schematic](Images/MorseCodeSchematic.png)
 ## Loading Code
+#### Installing drivers for programming
+To program attiny with micronucleus you will need to download Digistump.Drivers.zip from link:
+
+https://github.com/digistump/digistumparduino/releases
+
+After downloading un-zip it and run DPinst64.exe
 #### Burning bootloader
 To load a code on attiny85, first you need to burn micronucleus bootloader.
 Add this to prefrences and in Boards Manager install ATTinyCore by Spence Konde:
@@ -22,6 +28,6 @@ https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_
 Now select Digispark(default - 16.5mhz) board, also chose micronucleus as bootloader and click upload. Don't plug in your usb board before you see you need to do that in output.
 ![BoardSetup2](Images/BoardSetup2.png)
 ## App
-I also built this windows app that's uselles for learning morse code but it looks nice. I saw something like this on instagram so I wanted to build it.
+I also build this windows app that's uselles for learning morse code but it looks nice. I saw something like this on instagram so I wanted to build it.
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/mogloce622/Morse-Code-Keyboard/raw/main/Morse%20Code.zip)
 ![App](Images/AppScreenshot.png)
