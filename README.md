@@ -11,6 +11,7 @@ https://raw.githubusercontent.com/SpenceKonde/ReleaseScripts/refs/heads/master/p
 ```
 Now select ATtiny85(Micronucleus/DigiSPark) board and change Burn Bootloader Methode to Fresh Install(via ISP).
 ![BoardSetup](Images/BoardSetup.png)
+
 Also you need to select you ISP programmer, for that you can use arduino as isp. Connect you arduino with attiny loike on circuit below. But before that remove 10uf cap and upload Arduino as ISP sketch that you can find in examples.
 ![attiny85](Images/Attiny85withArduino.png)
 #### Installing Digistump
