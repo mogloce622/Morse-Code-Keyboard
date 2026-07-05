@@ -18,7 +18,7 @@ https://raw.githubusercontent.com/SpenceKonde/ReleaseScripts/refs/heads/master/p
 Now select ATtiny85(Micronucleus/DigiSPark) board and change Burn Bootloader Methode to Fresh Install(via ISP).
 ![BoardSetup](Images/BoardSetup.png)
 
-Also you need to select you ISP programmer, for that you can use arduino as isp. Connect you arduino with attiny loike on circuit below. But before that remove 10uf cap and upload Arduino as ISP sketch that you can find in examples.
+Also you need to select your ISP programmer, for that you can use arduino as isp. Connect you arduino with attiny like on circuit below, but before that remove 10uf cap and upload Arduino as ISP sketch that you can find in examples.
 ![attiny85](Images/Attiny85withArduino.png)
 #### Installing Digistump
 Because now you have a micronucleus bootloader you can put attiny on your usb board. To use digistump libraries you need to instal DigiStump board for that add this in prefrences and install it in board manager:
