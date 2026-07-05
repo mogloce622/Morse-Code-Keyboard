@@ -20,4 +20,5 @@ Now select Digispark(default - 16.5mhz) board, also chose micronucleus as bootlo
 ![BoardSetup2](Images/BoardSetup2.png)
 ## App
 I also built this windows app that's uselles for learning morse code but it looks nice. I saw something like this on instagram so I wanted to build it.
+[![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/mogloce622/Morse-Code-Keyboard/raw/main/Morse%20Code.zip)
 ![App](Images/AppScreenshot.png)
