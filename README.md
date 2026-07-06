@@ -27,6 +27,7 @@ https://raw.githubusercontent.com/digistump/arduino-boards-index/master/package_
 Now select Digispark(default - 16.5mhz) board, chose micronucleus as bootloader and than click upload. Don't plug it in yet, wait until you see message in output to connect your USB.
 ![BoardSetup2](Images/BoardSetup2.png)
 ## App
-I also built this windows app, although it's uselles for learning morse code, it's really fun to play with it.
+I also built this windows app, although 
+uselles for learning morse code, it's really fun to play with it.
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/mogloce622/Morse-Code-Keyboard/raw/main/Morse%20Code.zip)
 ![App](Images/AppScreenshot.png)
