@@ -1,4 +1,5 @@
 # Morse-Code-Keyboard
+
 ## Hardware
 Build this circuit on a piece of perf board or make your own PCB. Make sure to use specified values of components.
 ![Schematic](Images/MorseCodeSchematic.png)
@@ -28,6 +29,6 @@ Now select Digispark(default - 16.5mhz) board, chose micronucleus as bootloader 
 ![BoardSetup2](Images/BoardSetup2.png)
 ## App
 I also built this windows app, although 
-uselles for learning morse code, it's really fun to play with it.
+uselles for learning morse code, it's really fun to play with it. To be able to use it you will need to hold down your button for 10s.
 [![Download ZIP](https://img.shields.io/badge/Download-ZIP-blue)](https://github.com/mogloce622/Morse-Code-Keyboard/raw/main/Morse%20Code.zip)
 ![App](Images/AppScreenshot.png)
