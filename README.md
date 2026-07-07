@@ -1,6 +1,6 @@
 # Morse-Code-Keyboard
 This device behaves like any other HID keyboard. The only difference is that it does not have a key for every character; instead, it uses Morse code for typing.
-![device pic](Images/picture1.png)
+![device pic](Images/picture1.jpg)
 ## Hardware
 Build this circuit on a piece of perf board or make your own PCB. Make sure to use specified values of components.
 ![Schematic](Images/MorseCodeSchematic.png)
